@@ -1,5 +1,9 @@
 ![alt text](https://github.com/IskandarHadiatma/aplikasi-service-komputer-1/blob/main/halama%20customers.png)
 ![alt text](https://github.com/IskandarHadiatma/aplikasi-service-komputer-1/blob/main/halaman%20barang.png)
+![alt text](https://github.com/IskandarHadiatma/aplikasi-service-komputer-1/blob/main/halaman%20keluhan.png)
+![alt text](https://github.com/IskandarHadiatma/aplikasi-service-komputer-1/blob/main/halaman%20komputer.png)
+![alt text](https://github.com/IskandarHadiatma/aplikasi-service-komputer-1/blob/main/halaman%20pegawai.png)
+![alt text](https://github.com/IskandarHadiatma/aplikasi-service-komputer-1/blob/main/halaman%20supplier.png)
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
